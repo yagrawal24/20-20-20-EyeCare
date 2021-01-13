@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(44, 43, 42);
+    text-align: center;
+    height: 200px;
+    width:300px;
+}
+h2 {
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+}
+#spacing1 {
+    padding: 7px;
+}
+#spacing2 {
+    padding: 7px;
+}
+#look {
+    font-size: 28px;
+    color: white;
+    padding: 0%;
+}
+#countdown {
+    font-size: 25px;
+    color: white;
+    padding: 0%;
+}
+#start {
+    background-color: #7ff183; 
+    border: none;
+    border-radius: 12px;
+    color: darkgreen;
+    display: inline-block;
+    font-size: 16px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+}
+#stop {
+    background-color: #f38a8a; 
+    border: none;
+    border-radius: 12px;
+    color: darkred;
+    display: inline-block;
+    font-size: 16px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+}
